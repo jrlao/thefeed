@@ -1,0 +1,226 @@
+@import url();
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    background-color: #2E3D30;
+    max-width: 1000px;
+    color: rgb(0, 0, 0);
+    border: 1px;
+    text-align: center;
+}
+
+nav {
+    background-color: #535030;
+    position: fixed;
+    height: 100vh;
+    max-width: 25%;
+    top: 0;
+    left: 0;
+    padding: 5%;
+}
+
+nav img:hover {
+    transform: scale(2.05);
+}
+
+img:hover {
+    transform: scale(1.55);
+}
+
+h1{
+    text-decoration-line: solid;
+    color: #E9E2D6;
+    text-align: right;
+    max-width: 87%;
+}
+
+
+h3{
+    font-style: normal;
+    color: #535030;
+}
+
+h2{
+    color: #E9E2D6;
+    text-align: right;
+    max-width: 70%;
+}
+
+h4 {
+    color: #DFD0D7;
+}
+
+header, footer {
+    width: 100%;
+    margin: 15px 0px 15px 0px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-width: 1px;
+    color: azure;
+}
+
+main{
+    background-color: #2E3D30;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 65%;
+    margin-left: 30%;
+    padding: 3%;
+}
+
+img{
+    padding: 30px;
+
+}
+
+p{
+    color: #DFD0D7;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+}
+
+.X {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6;
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Cry {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6;
+   border-radius: 8px;
+   display: block;
+}
+
+.Cigarettes_After_Sex {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6;
+   border-radius: 8px;
+   display: block;
+
+}
+
+.K {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6; 
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Youre_All_I_Want {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6; 
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Crush {
+    border: 1px;
+    text-align: center;
+    flex-basis: 20%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6;
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Falling_in_Love {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6;
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Neon_Moon {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6; 
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Apocalypse {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6; 
+   border-radius: 8px;
+   display: block;
+
+}
+
+.Scars {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    color: #E9E2D6;
+    border: 20px solid #E9E2D6;
+   align-items: center;
+   border-color: #E9E2D6; 
+   border-radius: 8px;
+   display: block;
+
+}
+
+a{
+    color: antiquewhite;
+}
+
+.img {
+   
+   display: block;
+}
